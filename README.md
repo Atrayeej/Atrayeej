@@ -1,10 +1,10 @@
 ![MasterHead](https://i.pinimg.com/originals/12/50/ae/1250aecf05bf654dc783093b5bb8502c.jpg)
 <h1 align="center">Hey there,I'm Atrayee👋</h1>
 <h3 align="center">A passionate fullstack developer and generative Ai Enthusiast from India</h3>
-<img align="right" width="400" src="https://media1.tenor.com/m/Nx4gRgudzx4AAAAC/anime-typing.gif">
+<img align="right" width="400" src="https://media1.tenor.com/m/paU7ZLSP3b0AAAAC/evrima-server.gif""height="300" width="300">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atrayeej&label=Profile%20views&color=0e75b6&style=flat" alt="atrayeej" /> </p>
-<p align="left"> <img src="https://media1.tenor.com/m/paU7ZLSP3b0AAAAC/evrima-server.gif" /> </p>
+<p align="left"> <img src="https://media1.tenor.com/m/Nx4gRgudzx4AAAAC/anime-typing.gif"height="150" width="300" /> </p>
 
 
 - 🔭 I’m currently working on **Article generator using langchain**
