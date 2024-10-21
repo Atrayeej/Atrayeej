@@ -15,7 +15,7 @@
 
 - 📝 My photography handle(https://www.instagram.com/atrayee.jpeg/?hl=en)
 
-- ⚡ Fun fact **I can sing and click pictures too**
+- ⚡ Fun fact **I can move my ears without touching**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
